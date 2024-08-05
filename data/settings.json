@@ -4,8 +4,8 @@
   "language": "zh-CN",
   "loading": "random",
   "showGithub": false,
-  "title": "璃冰严选",
-  "description": "璃冰严选实用导航网站",
+  "title": "三五导航",
+  "description": "三五实用导航网站",
   "keywords": "导航,社区,实用工具,学习资源",
   "theme": "Shortcut",
   "appTheme": "App",
@@ -62,13 +62,13 @@
   "shortcutThemeShowWeather": true,
   "shortcutThemeImages": [
     {
-      "src": "https://pan.icecome.com/s/pyrtmj",
+      "src": "https://pan.icecome.com/s/0fxb3o",
       "url": "",
       "width": null,
       "height": null
     }
   ],
   "showLanguage": true,
-  "showRate": true,
+  "showRate": false,
   "mirrorList": []
 }
